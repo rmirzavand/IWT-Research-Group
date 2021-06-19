@@ -15,27 +15,21 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: IWT research group description.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: rmirzavand@ualberta.ca
+phone: 780 492 91 81
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 10-207 DICE Building, 9211-116 St. NW
+  city: Edmonton
   region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  postcode: 'T6G 1H9'
+  country: Canada
+  country_code: CAD
+
 appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
